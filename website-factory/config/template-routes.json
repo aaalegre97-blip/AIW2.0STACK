@@ -1,4 +1,15 @@
 {
-  "$comment": "Template registry. Per-niche entries written by Module 2D when /build-niche-template runs. No `default` entry: every niche must be generated from research before Stage 10.1 can build a client.",
-  "byNiche": {}
+  "version": 1,
+  "byNiche": {
+    "storm-restoration-roofing": {
+      "templatePath": "templates/storm-restoration-roofing",
+      "version": 1,
+      "generatedAt": "2026-08-04T04:55:00Z",
+      "designReference": "a1garage.com",
+      "designReferenceScore": 93,
+      "status": "minimum-viable",
+      "incompleteMarker": "templates/storm-restoration-roofing/INCOMPLETE.md"
+    }
+  },
+  "default": "storm-restoration-roofing"
 }

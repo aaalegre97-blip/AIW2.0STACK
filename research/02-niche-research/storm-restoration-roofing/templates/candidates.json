@@ -1,0 +1,17 @@
+{
+  "niche": "storm-restoration-roofing",
+  "generated_at": "2026-08-04T04:00:00Z",
+  "source": "manual selection from Module 2B research + known storm-restoration industry brands",
+  "candidates": [
+    {"slug": "long-roofing",    "url": "https://longroofing.com",           "reason": "national well-established Mid-Atlantic storm-restoration brand"},
+    {"slug": "dabella",         "url": "https://www.dabella.us",            "reason": "national storm-restoration and exterior brand, strong ad-driven lead flow"},
+    {"slug": "erie-home",       "url": "https://www.eriehome.com",          "reason": "national metal roofing storm-restoration model, polished design system"},
+    {"slug": "roof-simple",     "url": "https://roofsimple.com",            "reason": "VA/MD storm restoration with modern site"},
+    {"slug": "billy-jr-roofing","url": "https://www.billyjrroofing.com",    "reason": "Dallas-market storm-restoration roofer"},
+    {"slug": "ready-roofing",   "url": "https://readyroofing.com",          "reason": "Dallas-market, mentioned in review corpus"},
+    {"slug": "westfall-roofing","url": "https://www.westfallroofing.com",   "reason": "Tampa-market storm restoration (adjacent for mitigation bundle)"},
+    {"slug": "restoration-roofing","url":"https://restorationroofing.com",  "reason": "TN/southeast storm restoration"},
+    {"slug": "gunner-roofing",  "url": "https://www.gunnerinc.com",         "reason": "well-branded storm restoration"},
+    {"slug": "elite-roofing",   "url": "https://www.eliteroofing.com",      "reason": "storm restoration well-branded"}
+  ]
+}

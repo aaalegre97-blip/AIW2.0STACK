@@ -1,0 +1,46 @@
+{
+  "niche": "storm-restoration-roofing",
+  "voice": {
+    "register": "tradesperson-native",
+    "tone": "direct, honest, service-first",
+    "sentence_length": "short and punchy",
+    "case_default": "sentence for body, UPPERCASE for section headers"
+  },
+  "locked_phrases": {
+    "insurance_advocate": "We handle your insurance claim. You pay only your deductible.",
+    "free_inspection": "Free storm-damage inspection. No pressure. No obligation.",
+    "honest_positioning": "If your roof doesn't need replacing, we'll tell you and go home.",
+    "public_adjuster_language": "Our public adjuster partners reverse denials.",
+    "speed_promise": "Same-day inspection. Text or call anytime."
+  },
+  "banned_phrases": [
+    "leverage",
+    "synergize",
+    "robust",
+    "seamless",
+    "cutting-edge",
+    "game-changer",
+    "world-class",
+    "innovative",
+    "solutions provider",
+    "best in class",
+    "second to none"
+  ],
+  "banned_punctuation": ["—", "em-dash"],
+  "cta_verbs_only": [
+    "Schedule",
+    "Book",
+    "Get",
+    "Call",
+    "Text",
+    "Start",
+    "See",
+    "Meet"
+  ],
+  "cta_verbs_banned": [
+    "Learn more",
+    "Explore",
+    "Discover",
+    "Find out more"
+  ]
+}

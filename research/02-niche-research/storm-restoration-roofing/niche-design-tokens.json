@@ -1,0 +1,46 @@
+{
+  "niche_slug": "storm-restoration-roofing",
+  "extractedAt": "2026-08-04T04:30:55.427522+00:00",
+  "winner": "a1garage",
+  "componentSources": {
+    "heroFrom": "a1garage",
+    "sectionOrderFrom": "a1garage",
+    "typographyFrom": "a1garage",
+    "colorSystemFrom": "a1garage",
+    "trustStackFrom": "cmr-construction"
+  },
+  "palette": {
+    "primary": "#0a0a0a",
+    "primary_dark": "#000000",
+    "primary_slate": "#1a1a1a",
+    "accent": "#d22630",
+    "accent_light": "#e64b54",
+    "accent_dark": "#a51c25",
+    "neutral": "#94a3b8",
+    "neutral_dim": "#475569",
+    "silver": "#e5e7eb",
+    "ink": "#0f172a",
+    "surface": "#ffffff",
+    "surface_alt": "#f8fafc"
+  },
+  "typography": {
+    "heading": "Oswald",
+    "body": "Barlow",
+    "headingFontUrl": "Oswald:wght@500;600;700",
+    "bodyFontUrl": "Barlow:wght@400;500;600;700"
+  },
+  "motion": {
+    "preset": "energetic",
+    "stagger_ms": 50,
+    "duration_ms": 400
+  },
+  "theme_mode": "light",
+  "shape_motif": "sharp",
+  "hand_corrections_note": "Auto-extractor flipped primary/accent — corrected to black primary + red accent (red is CTA, not background). Auto-picked 'Directors Gothic Bold' isn't a Google webfont; substituted with 'Oswald' (industrial condensed display, same energy).",
+  "sources": {
+    "raw_dir": "research/02-niche-research/storm-restoration-roofing/templates/raw",
+    "color_dir": "research/02-niche-research/storm-restoration-roofing/templates/raw/a1garage",
+    "typo_dir": "research/02-niche-research/storm-restoration-roofing/templates/raw/a1garage",
+    "pick": "research/02-niche-research/storm-restoration-roofing/templates/pick.json"
+  }
+}

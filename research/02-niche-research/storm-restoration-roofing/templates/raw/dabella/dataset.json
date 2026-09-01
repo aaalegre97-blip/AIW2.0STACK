@@ -1,0 +1,131 @@
+[{
+  "title": "DaBella | Quality Begins At Home",
+  "url": "https://www.dabella.us",
+  "htmlLen": 684835,
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "be:wp": "1.1.18",
+    "be:sdk": "php_sdk_1.5.16",
+    "be:timer": "46ms",
+    "be:orig_url": "https%3A%2F%2Fdabella.us%2F%3Fignorenitro%3Db7ce39eb23c4d81931ccf33a9f93b7ec",
+    "be:norm_url": "https%3A%2F%2Fdabella.us%2F",
+    "be:capsule_url": "https%3A%2F%2Fixfd1-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000223312%2F530884885",
+    "be:api_dt": "Zy_2026;Zm_07;Zd_10;Zh_06;Zmh_38;p_epoch:1.78366548172E+12",
+    "be:mod_dt": "Zy_2026;Zm_07;Zd_10;Zh_06;Zmh_38;p_epoch:1.78366548172E+12",
+    "be:diag": "+fovJpAZQdzuJCXQE5fw5v1bsTGSzjs9RFMQrhJFAlMEzpeAKs6m8j4lyW7Shba9CcdLJUiFhSF65hQ8hgTXdeVYqv0RnAYZflNGpdWUoRMiIJRuruKPrcUGr0L6QXleYuyCvaj1dVTcEj8SBMz6YhAmWglY+pxZPAQP1L9m/+dYRAwzBQR1P1fLAV3fLglQ/36vwdfzG9L70iq0kf/rXywFOZiUMwpFtmonKsciQs6rT6KgK24odHfyJ3J/GIFVL6ryMfh+In85m+Yh0iCnfW2VGfMwRqV9rv6sM9lcvNKr",
+    "be:messages": "true",
+    "description": "Quality Begins At Home",
+    "og:locale": "en_US",
+    "og:type": "website",
+    "og:title": "DaBella | Quality Begins At Home",
+    "og:description": "Quality Begins At Home",
+    "og:url": "https://dabella.us/",
+    "og:site_name": "DaBella",
+    "og:image": "https://dabella.us/wp-content/uploads/2025/10/site_image.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "675",
+    "og:image:type": "image/jpeg",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@DaBellaExter",
+    "google-site-verification": "sRr1MquJCPwTw8CKrQsicjUQki2wypjhFKpXXyaUh_w",
+    "generator": "NitroPack",
+    "theme-color": "#ffffff"
+  },
+  "colors": [
+    [
+      "rgb(0, 0, 0)",
+      905
+    ],
+    [
+      "rgb(255, 255, 255)",
+      550
+    ],
+    [
+      "rgb(17, 35, 55)",
+      102
+    ],
+    [
+      "rgb(33, 35, 34)",
+      65
+    ],
+    [
+      "rgb(192, 43, 10)",
+      42
+    ],
+    [
+      "rgb(88, 94, 106)",
+      18
+    ],
+    [
+      "rgb(19, 43, 11)",
+      17
+    ],
+    [
+      "rgb(175, 225, 45)",
+      17
+    ],
+    [
+      "rgb(240, 240, 240)",
+      12
+    ],
+    [
+      "rgb(45, 105, 25)",
+      12
+    ],
+    [
+      "rgb(224, 0, 77)",
+      10
+    ],
+    [
+      "rgb(211, 211, 211)",
+      7
+    ],
+    [
+      "rgb(54, 70, 43)",
+      6
+    ],
+    [
+      "rgb(140, 198, 63)",
+      4
+    ],
+    [
+      "rgb(20, 49, 16)",
+      4
+    ]
+  ],
+  "fonts": [
+    "Montserrat",
+    "Arial",
+    "Cosmica"
+  ],
+  "heroText": null,
+  "ctaText": [
+    "SEND",
+    "SEND",
+    "SEND",
+    "Clear",
+    "Clear",
+    "submit"
+  ],
+  "sectionHeadings": [
+    "BRING LASTING QUALITY TO YOUR HOME’S\n\nROOFING\nSIDING\nWINDOWS\nBATHS",
+    "Get a quote – A (1)",
+    "AWARD-WINNING SERVICE THAT YOU CAN TRUST",
+    "SMART FINANCING OPTIONS TAILORED TO YOU",
+    "THE DABELLA 4-STEP PROCESS",
+    "OUR MISSION",
+    "TO CARE FOR FAMILIES",
+    "TO CARE FOR HOMES"
+  ],
+  "#error": false,
+  "#debug": {
+    "requestId": "ZPsMuXUv2xxCjLU",
+    "url": "https://www.dabella.us",
+    "loadedUrl": "https://dabella.us/",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  }
+}]

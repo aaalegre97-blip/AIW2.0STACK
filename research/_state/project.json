@@ -1,8 +1,86 @@
 {
-  "studentName": null,
-  "currentModule": "m0_setup",
-  "candidateNiches": [],
-  "finalistNiches": [],
-  "chosenNiche": null,
-  "lastUpdated": null
+  "studentName": "Alan",
+  "currentModule": "m2d_build_template",
+  "candidateNiches": [
+    "residential-cleaning",
+    "storm-restoration-roofing",
+    "water-storm-mitigation",
+    "hvac-contractors",
+    "landscaping",
+    "residential-solar",
+    "fiber-internet-install",
+    "commercial-electrical"
+  ],
+  "finalistNiches": [
+    "storm-restoration-roofing",
+    "water-storm-mitigation",
+    "residential-cleaning"
+  ],
+  "chosenNiche": "storm-restoration-roofing",
+  "secondaryNiche": "water-storm-mitigation-vegas",
+  "lastUpdated": "2026-08-04T03:45:00Z",
+  "interviewNotes": {
+    "section1": [
+      "Started as electrician",
+      "Quit to start a window cleaning business",
+      "Also door-knocked selling home improvement",
+      "Later bought 3 companies, sold 2, kept 1",
+      "The one kept: 'remote cleaning business' (current active)",
+      "Started electrician career at age 19",
+      "Has been full-time entrepreneur for ~1 year",
+      "Electrical work was COMMERCIAL (not residential/industrial)",
+      "Reached LEAD ELECTRICIAN (running crews on job sites, coordinating with GCs)",
+      "4 total years commercial electrical (approx ages 19-23)",
+      "Door-knocking home improvement was SIDE HUSTLE during electrician years (evenings/after work)",
+      "Window cleaning came AFTER quitting; grown via networking + guerilla marketing + door knocking",
+      "Door-knocking products sold: SOLAR, ROOFING, FIBER internet",
+      "Was 1099 canvasser/setter (not employee, not own business) — knew the inside sales side of these industries",
+      "All 3 acquired companies were RESIDENTIAL CLEANING — meaning he has deep buy/sell/operate experience in this exact vertical",
+      "'Remote cleaning business' = residential cleaning run remotely (manages cleaners, does not clean himself)",
+      "CURRENT OPERATION: (1) residential cleaning company + (2) MARKETING AGENCY targeting home services — already an agency owner, not starting fresh",
+      "Agency delivers: WEBSITES, SEO, ADS (full digital stack)",
+      "Current agency clients span: ROOFING, HVAC, LANDSCAPING (and other home services, mixed portfolio)"
+    ],
+    "section2": [
+      "Deepest inside knowledge: ROOFING and HVAC (his own read)",
+      "NOTABLE: did NOT list residential cleaning despite owning one — suggests 'inside knowledge' to him means the sales/customer side, not the operator side",
+      "Signature roofing objection heard on doorstep: 'My roof was inspected, the insurance didn't cover it' — classic storm restoration objection (denied insurance claim)",
+      "Closer response: position as advocate against insurance, use public adjuster to fight for full replacement covered — homeowner pays deductible only",
+      "SUB-NICHE SIGNAL: storm restoration roofing (as opposed to retail roofing or new construction) — Alan knows this model deeply, public adjusters and all",
+      "IMPORTANT ADJUSTMENT: On HVAC, Alan says 'not too sure' about specific pain points — earlier claim of 'roofing and HVAC most' is overstated. Roofing is deep inside knowledge; HVAC is agency-client-adjacent knowledge only.",
+      "SECOND CORRECTION: Alan says he doesn't have HVAC clients YET — so earlier 'clients in roofing/HVAC/landscaping' includes aspirational targets, not just live clients. Current live client mix needs re-verification in Section 5.",
+      "RESIDENTIAL CLEANING inside strength: Alan's operator edge is CLIENT RETENTION / LTV expansion (not lead acquisition). Complements his lead-gen strength from door-knocking days = both sides of marketing spectrum. Probe specific tactics in Section 3."
+    ],
+    "section3": [
+      "Alan's hard-won take: SPEED is what most home service owners get wrong — both speed-to-lead (initial response) AND speed across the client journey (follow-up, issue resolution). Poor speed kills LTV and retention.",
+      "This take bridges his two experiences: door-knocking sales (where speed = close-on-the-spot) + operating cleaning business (where speed = retention). Positioning angle: he can preach speed with credibility from both sides.",
+      "Concrete speed rule Alan preaches: SMS + email within 1 minute, phone call within 5 minutes for a new lead. This is a specific, defendable positioning line."
+    ],
+    "section4": [
+      "Warm network is in: ROOFING and MITIGATION (water damage / storm restoration remediation) — same insurance-claim ecosystem",
+      "Signal: roofing + mitigation is a natural bundled niche — both are storm/damage-driven, both work through insurance/public adjusters",
+      "Warm network size: ~3 owners total (roofing + mitigation combined) — modest but real, not empty",
+      "Community presence: 'different WhatsApp groups + paid groups' — distributed/opportunistic, not deeply embedded in one branded community. Network is a mild plus but not a strong pillar."
+    ],
+    "section5": [
+      "MAJOR NICHE SIGNAL: Alan's actual paid marketing work has been for CLEANING businesses — SEO, ads, websites. This is his validated revenue niche (regardless of what he named earlier as 'inside knowledge').",
+      "So the money says cleaning; the door-knocking chops say roofing. This is important tension to resolve in niche scoring.",
+      "Positioning-line potential: 'I run one of these and I market for them' — built-in authority for cleaning.",
+      "Revenue proof point: 2 cleaning clients paid $4,800 PIF each = ~$9,600 total agency revenue so far. Fresh but proven — 'I've sold this offer twice' beats 'I have an offer I've never sold.'",
+      "Offer structure: PIF package (not monthly retainer) at $4,800 price point. That's website + setup + likely a starter SEO/ads month bundled.",
+      "Value gaps Alan spots in home services: (1) websites not built to convert, (2) no/bad SEO, (3) zero organic Instagram content. Matches his current offer stack exactly."
+    ],
+    "section6": [
+      "Preferred client archetype: OLD-SCHOOL TRADESMAN (45-60, blue-collar, gruff, handshake-closer). Fits: roofing crew chiefs, HVAC founders, plumbers, established landscapers.",
+      "TENSION: preferred archetype (tradesman) fits roofing/HVAC better than cleaning (which skews female-led/younger/culture-focused). Money says cleaning, fit says roofing. Score both.",
+      "No industries Alan would refuse to work in — no gut-level 'not that' filter. Very open.",
+      "Geographic lean: any market (no big-city/small-town preference). Blue-collar (from old-school tradesman archetype). Fine with remote-first client base."
+    ],
+    "section7": [
+      "Time available: 20 hrs/week (part-time — cleaning company runs alongside)",
+      "Capital: $200/month for tools/software/contractors (tight — efficient, low-tool-cost niche play required)",
+      "Self-scores: web design 4/5, sales 4/5, SEO 4/5, content 4/5. Consistent competence across all four, no glaring skill gap.",
+      "12-month target: $100K MRR ($1.2M ARR). VERY ambitious given $9.6K total revenue today, 20 hrs/wk, $200/mo budget. Implies niche must support monthly retainers (not one-off PIF), high per-client LTV, and fast client acquisition. Score this as an aggressive target."
+    ]
+  }
 }

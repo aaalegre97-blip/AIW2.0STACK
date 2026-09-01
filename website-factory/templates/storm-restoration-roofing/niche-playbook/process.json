@@ -1,0 +1,23 @@
+{
+  "niche": "storm-restoration-roofing",
+  "steps": [
+    {
+      "number": "1",
+      "title": "Free Inspection",
+      "body": "We climb the roof with drone plus moisture meter and write the damage report your insurance can't ignore.",
+      "duration": "Same day or next"
+    },
+    {
+      "number": "2",
+      "title": "We Fight Your Claim",
+      "body": "Our public adjuster partners reverse denials and negotiate full replacements. You do nothing.",
+      "duration": "1-3 weeks"
+    },
+    {
+      "number": "3",
+      "title": "Full Roof, Deductible Only",
+      "body": "Insurance pays the contract. Your only out-of-pocket is your policy deductible.",
+      "duration": "3-7 days of installation"
+    }
+  ]
+}

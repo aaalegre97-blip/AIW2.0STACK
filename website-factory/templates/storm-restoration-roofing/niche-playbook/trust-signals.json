@@ -1,0 +1,29 @@
+{
+  "niche": "storm-restoration-roofing",
+  "priority_order": [
+    "manufacturer_certifications",
+    "state_license",
+    "bbb_rating",
+    "google_reviews_aggregate",
+    "insurance_carriers",
+    "photo_video_testimonials"
+  ],
+  "manufacturer_certifications": {
+    "primary": ["GAF Master Elite", "Owens Corning Platinum Preferred", "CertainTeed SELECT ShingleMaster"],
+    "secondary": ["IKO ROOFPRO Premium"]
+  },
+  "industry_credentials": ["HAAG Certified Inspector", "NRCA Member", "Local Chamber of Commerce"],
+  "insurance_language": {
+    "advocate_line": "We work directly with your insurance carrier so you focus on getting your home back.",
+    "deductible_only": "You pay only your deductible.",
+    "denial_reversal": "We reverse denied claims using certified public adjusters.",
+    "carrier_logos_permitted": ["Allstate", "State Farm", "Farmers", "USAA", "Nationwide", "Liberty Mutual"]
+  },
+  "anti_patterns": [
+    "Stock photos of 'happy homeowners' (customers spot immediately)",
+    "Family-owned since {year} without a founder photo",
+    "Generic 'insurance experts' without naming carriers",
+    "Testimonials with last-name-only signatures",
+    "Pop-ups on first load"
+  ]
+}

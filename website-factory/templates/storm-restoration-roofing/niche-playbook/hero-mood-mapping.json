@@ -1,0 +1,19 @@
+{
+  "niche": "storm-restoration-roofing",
+  "default_mood": "aftermath_calm",
+  "moods": {
+    "aftermath_calm": {
+      "description": "Drone shot of a finished, undamaged roof at evening light. Calm and aspirational. Communicates 'this is what we deliver' without leading with the fear of damage.",
+      "imagery": ["drone_finished_roof", "crew_on_roof_action"],
+      "avoid": ["crumbling_damaged_roof", "flood_water"],
+      "overlay": "linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.65) 100%)",
+      "tone_color": "warm_evening"
+    },
+    "storm_urgency": {
+      "description": "Alternative mood for post-storm markets or dedicated storm-response campaigns. Dark sky, storm clouds, crew responding.",
+      "imagery": ["storm_sky", "crew_responding"],
+      "overlay": "linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.75) 100%)",
+      "tone_color": "cool_stormy"
+    }
+  }
+}

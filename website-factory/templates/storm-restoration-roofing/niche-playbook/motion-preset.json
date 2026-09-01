@@ -1,0 +1,18 @@
+{
+  "niche": "storm-restoration-roofing",
+  "preset": "energetic",
+  "stagger_ms": 50,
+  "duration_ms": 400,
+  "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+  "reveal_on_scroll": {
+    "enabled": true,
+    "translate_y_px": 12,
+    "opacity_from": 0
+  },
+  "hover_effects": {
+    "button_darken_ms": 100,
+    "card_lift_shadow": true
+  },
+  "hero_motion": "static",
+  "reduced_motion_respect": true
+}

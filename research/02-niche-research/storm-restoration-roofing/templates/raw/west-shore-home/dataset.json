@@ -1,0 +1,14 @@
+[{
+  "#error": true,
+  "#debug": {
+    "requestId": "P1myZR251hurVst",
+    "url": "https://westshorehome.com",
+    "method": "GET",
+    "retryCount": 2,
+    "errorMessages": [
+      "Error: Request blocked - received 403 status code.\n    at PlaywrightCrawler._throwOnBlockedRequest (/home/myuser/node_modules/@crawlee/basic/internals/basic-crawler.js:913:19)\n    at PlaywrightCrawler._responseHandler (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:383:22)\n    at PlaywrightCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:262:24)\n    at async PlaywrightCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/playwright/internals/playwright-crawler.js:114:9)\n    at async wrap (/home/myuser/node_modules/@apify/timeout/cjs/index.cjs:54:21)",
+      "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://westshorehome.com/\", waiting until \"networkidle\"\u001b[22m\n\n    at gotoExtended (/home/myuser/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17)\n    at PlaywrightCrawler._navigationHandler (/home/myuser/node_modules/@crawlee/playwright/internals/playwright-crawler.js:117:52)\n    at PlaywrightCrawler._handleNavigation (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:334:52)\n    at async PlaywrightCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:260:13)\n    at async PlaywrightCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/playwright/internals/playwright-crawler.js:114:9)\n    at async wrap (/home/myuser/node_modules/@apify/timeout/cjs/index.cjs:54:21)",
+      "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://westshorehome.com/\", waiting until \"networkidle\"\u001b[22m\n\n    at gotoExtended (/home/myuser/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17)\n    at PlaywrightCrawler._navigationHandler (/home/myuser/node_modules/@crawlee/playwright/internals/playwright-crawler.js:117:52)\n    at PlaywrightCrawler._handleNavigation (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:334:52)\n    at async PlaywrightCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:260:13)\n    at async PlaywrightCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/playwright/internals/playwright-crawler.js:114:9)\n    at async wrap (/home/myuser/node_modules/@apify/timeout/cjs/index.cjs:54:21)"
+    ]
+  }
+}]

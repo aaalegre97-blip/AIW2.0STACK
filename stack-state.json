@@ -1,39 +1,84 @@
 {
   "version": 2,
-  "module": "not_started",
-  "niche": null,
-  "studentName": null,
+  "module": "m5_complete",
+  "niche": "storm-restoration-roofing",
+  "studentName": "Alan",
   "gates": {
-    "setup.complete": false,
+    "setup.complete": true,
     "agency.brandLocked": false,
-    "m1.profileLocked": false,
-    "m2a.scoresLocked": false,
-    "m2b.researchComplete": false,
-    "m2c.nicheDecided": false,
-    "m2d.templateBuilt": false,
-    "m3.offerLocked": false,
-    "m4.factoryStructureLoaded": false,
-    "m5.factoryBriefLocked": false,
+    "m1.profileLocked": true,
+    "m2a.scoresLocked": true,
+    "m2b.researchComplete": true,
+    "m2c.nicheDecided": true,
+    "m2d.templateBuilt": true,
+    "m3.offerLocked": true,
+    "m4.factoryStructureLoaded": true,
+    "m5.factoryBriefLocked": true,
     "factory.tailored": false,
     "factory.deployed": false,
-    "m6.engineStructureLoaded": false,
-    "m7.engineBriefLocked": false,
-    "engine.deployed": false,
+    "m6.engineStructureLoaded": true,
+    "m7.engineBriefLocked": true,
+    "engine.deployed": true,
     "engine.contextPasted": false,
-    "factory.generated": false
+    "factory.generated": true
   },
   "credentials": {
-    "anthropic": false,
-    "apify": false,
-    "supabase": false,
-    "vercel": false,
-    "assemblyAi": false,
-    "github": false
+    "anthropic": true,
+    "apify": true,
+    "supabase": true,
+    "vercel": true,
+    "assemblyAi": true,
+    "github": true
   },
   "deployments": {
     "factory": null,
-    "engine": null
+    "engine": {
+      "url": "https://aiw-engine-storm-restoration-roofin.vercel.app",
+      "deploymentUrl": "https://aiw-engine-storm-restoration-roofing-awge4jq1d-aiw3.vercel.app",
+      "vercelProject": "aiw-engine-storm-restoration-roofing",
+      "vercelTeam": "aiw3",
+      "supabaseProject": "bqvkhfbzequevsstzzsi",
+      "deployedAt": "2026-08-04T07:00:00Z"
+    }
   },
   "factoryRuns": [],
-  "history": []
+  "history": [
+    {
+      "timestamp": "2026-08-04T01:05:00Z",
+      "command": "/setup",
+      "outcome": "complete"
+    },
+    {
+      "timestamp": "2026-08-04T01:45:00Z",
+      "command": "/discovery",
+      "outcome": "complete, 8 niche candidates surfaced, top 3 flagged"
+    },
+    {
+      "timestamp": "2026-08-04T01:55:00Z",
+      "command": "/score-niches",
+      "outcome": "5 scored, top 3: storm-roofing (30), mitigation (28), cleaning (27)"
+    },
+    {
+      "timestamp": "2026-08-04T03:35:00Z",
+      "command": "/research",
+      "outcome": "Module 2B complete. 14,924 Google Maps reviews mined across 3 niches. Google search + Reddit scrapers blocked by proxies; syntheses use review data + training knowledge. 24 deliverable files written."
+    },
+    {
+      "timestamp": "2026-08-04T03:50:00Z",
+      "command": "/pick-niche",
+      "outcome": "storm-restoration-roofing committed as primary niche. Water/storm mitigation kept as secondary Vegas-focused play."
+    },
+    {
+      "ts": "2026-08-04T04:33:28.432924+00:00",
+      "event": "factory.generated",
+      "niche": "storm-restoration-roofing"
+    },
+    { "timestamp": "2026-08-04T04:55:00Z", "command": "/build-niche-template", "outcome": "minimum-viable v1 template locked. A1 Garage Door 93/100 reference. 9 components + HomePage + 6 playbook JSONs + 2 checklists written. Gates 1-2 pass. Refine-template needed for remaining sections/pages/SOPs." },
+    { "timestamp": "2026-08-04T05:15:00Z", "command": "/craft-offer", "outcome": "Offer pack locked. Positioning: 'websites + Meta ads for storm-restoration roofers'. Stage 2 offer: free upfront design → $1000 on approval → $3800 Net-30x2. 3-tier price anchor. 5 personalized prospects (2 live-verified, 3 need URL check)." },
+    { "timestamp": "2026-08-04T05:25:00Z", "command": "/load-engine-structure", "outcome": "Content_Engine_Structure.md written. 7 buckets confirmed (video_ideas, inspiration, expert_brain, my_voice, context, instructions, feedback). Note: framework called bucket 5 'my_business' but code uses 'context'." },
+    { "timestamp": "2026-08-04T05:35:00Z", "command": "/load-factory-structure", "outcome": "Website_Factory_Structure.md written. 13-stage pipeline documented. 4-field intake (businessName, websiteUrl, phone, email). 32-key canonical brand-dna shape. 11 playbook schemas (6 populated for storm-restoration v1)." },
+    { "timestamp": "2026-08-04T05:36:00Z", "command": "/generate-wf-brief", "outcome": "website-factory-brief.md locked. No live client — 4 intake fields marked [MISSING] with enrichment hints for stages 2-7. Niche context, offer positioning, template lineage (A1 Garage 93/100), copy locks, trust priorities all pulled from research." },
+    { "timestamp": "2026-08-04T06:00:00Z", "command": "/generate-wf-brief (re-run)", "outcome": "Brief updated with first live client: Independent Restoration Services of Las Vegas (mitigation, Vegas-targeted, fresh domain). Warm channel via rep. Storm-restoration template reused with mitigation overrides (palette red→blue, copy swap, hero image). Kickoff checklist added for phone/email/URL capture on first call." },
+    { "timestamp": "2026-08-04T06:20:00Z", "command": "/generate-ce-brief", "outcome": "content-engine-brief.md locked. 7 buckets structured for Alan's agency-content-to-storm-restoration-roofers positioning. 25 starter video ideas. my_voice bucket flagged [ALAN TO POPULATE] — engine cannot generate scripts without real voice samples." }
+  ]
 }

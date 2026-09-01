@@ -1,0 +1,80 @@
+{
+  "niche": "storm-restoration-roofing",
+  "generatedAt": "2026-08-04T04:45:00Z",
+  "routes": [
+    {
+      "path": "/",
+      "component": "HomePage",
+      "sections": [
+        "HeaderBar",
+        "HeroStormRestoration",
+        "TrustBadgeStrip",
+        "InsuranceAdvocateProcess",
+        "ServicesGrid",
+        "ReviewsStrip",
+        "PhotoGallery",
+        "AboutOwner",
+        "FaqInsurance",
+        "ServiceAreaMap",
+        "FinalCta",
+        "Footer",
+        "StickyMobileBar"
+      ],
+      "seo": {
+        "titlePattern": "{City} Storm-Damage Roofers | {CompanyName} — Free Inspection",
+        "descriptionPattern": "Storm damaged roof in {City}? {CompanyName} handles your insurance claim. GAF Master Elite. Free inspection. Same day."
+      }
+    },
+    {
+      "path": "/about",
+      "component": "AboutPage",
+      "sections": [
+        "HeaderBar",
+        "AboutOwner",
+        "TrustBadgeStrip",
+        "ReviewsStrip",
+        "FinalCta",
+        "Footer",
+        "StickyMobileBar"
+      ],
+      "seo": {
+        "titlePattern": "About {CompanyName} | {City}'s Trusted Storm-Restoration Roofer",
+        "descriptionPattern": "{CompanyName} — {YearsInBusiness} years serving {City} homeowners with insurance-covered storm restoration. Meet {OwnerName}."
+      }
+    },
+    {
+      "path": "/services",
+      "component": "ServicesPage",
+      "sections": [
+        "HeaderBar",
+        "HeroServicesCompact",
+        "ServicesGrid",
+        "InsuranceAdvocateProcess",
+        "ReviewsStrip",
+        "FinalCta",
+        "Footer",
+        "StickyMobileBar"
+      ],
+      "seo": {
+        "titlePattern": "Storm-Damage Roofing Services | {CompanyName} in {City}",
+        "descriptionPattern": "Free storm-damage inspection, insurance claim advocacy, full roof replacement, emergency tarping. Serving {City} and surrounding areas."
+      }
+    },
+    {
+      "path": "/contact",
+      "component": "ContactPage",
+      "sections": [
+        "HeaderBar",
+        "HeroContactCompact",
+        "FinalCta",
+        "ServiceAreaMap",
+        "Footer",
+        "StickyMobileBar"
+      ],
+      "seo": {
+        "titlePattern": "Contact {CompanyName} | Free Storm-Damage Inspection in {City}",
+        "descriptionPattern": "Call, text, or book online. Same-day storm damage inspection in {City}. {CompanyName} handles your insurance claim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "niche": "storm-restoration-roofing",
+  "theme_mode": "light",
+  "palette": {
+    "primary": "#0a0a0a",
+    "primary_dark": "#000000",
+    "primary_slate": "#1a1a1a",
+    "accent": "#d22630",
+    "accent_light": "#e64b54",
+    "accent_dark": "#a51c25",
+    "neutral": "#94a3b8",
+    "neutral_dim": "#475569",
+    "silver": "#e5e7eb",
+    "ink": "#0f172a",
+    "surface": "#ffffff",
+    "surface_alt": "#f8fafc"
+  },
+  "typography": {
+    "heading": "Oswald",
+    "body": "Barlow",
+    "case_default_headings": "uppercase",
+    "letter_spacing_headings": "tight"
+  },
+  "shape_motif": "sharp",
+  "border_radius": {
+    "button": "4px",
+    "card": "0px",
+    "input": "0px"
+  }
+}

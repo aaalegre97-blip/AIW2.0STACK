@@ -1,0 +1,114 @@
+[{
+  "title": "CMR Construction & Roofing - Top U.S. Roofing Company",
+  "url": "https://cmrconstruction.com",
+  "htmlLen": 196709,
+  "meta": {
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "viewport": "width=device-width, initial-scale=1",
+    "description": "CMR Construction & Roofing is a top U.S. roofing company providing expert residential and commercial roof repair, replacement, and installation.",
+    "og:locale": "en_US",
+    "og:type": "website",
+    "og:title": "Commercial & Residential Roofing Replacement",
+    "og:description": "CMR Construction & Roofing is a top U.S. roofing company providing expert residential and commercial roof repair, replacement, and installation.",
+    "og:url": "https://cmrconstruction.com/",
+    "og:site_name": "CMR Construction",
+    "article:modified_time": "2025-10-21T19:16:29+00:00",
+    "og:image": "https://cmrconstruction.com/wp-content/uploads/2022/01/cmr-logo-white.png",
+    "twitter:card": "summary_large_image",
+    "generator": "Powered by Slider Revolution 6.6.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+    "msapplication-TileImage": "https://cmrconstruction.com/wp-content/uploads/2022/01/cmr-map-marker-icon-20px.png"
+  },
+  "colors": [
+    [
+      "rgb(113, 120, 126)",
+      669
+    ],
+    [
+      "rgb(255, 255, 255)",
+      180
+    ],
+    [
+      "rgb(51, 55, 61)",
+      150
+    ],
+    [
+      "rgb(0, 0, 0)",
+      112
+    ],
+    [
+      "rgb(30, 115, 190)",
+      104
+    ],
+    [
+      "rgb(23, 49, 89)",
+      35
+    ],
+    [
+      "rgb(21, 21, 21)",
+      26
+    ],
+    [
+      "rgb(105, 114, 125)",
+      16
+    ],
+    [
+      "rgb(34, 34, 34)",
+      11
+    ],
+    [
+      "rgba(255, 255, 255, 0)",
+      10
+    ],
+    [
+      "rgb(57, 60, 62)",
+      9
+    ],
+    [
+      "rgb(84, 89, 95)",
+      8
+    ],
+    [
+      "rgb(119, 155, 209)",
+      4
+    ],
+    [
+      "rgb(69, 107, 163)",
+      3
+    ],
+    [
+      "rgba(23, 49, 89, 0.7)",
+      3
+    ]
+  ],
+  "fonts": [
+    "Nunito",
+    "Raleway",
+    "Roboto",
+    "Avenir"
+  ],
+  "heroText": "\nTop-Rated U.S. Roofing Company with 20+ Years of Industry Excellence",
+  "ctaText": [],
+  "sectionHeadings": [
+    "SPEED, CRAFTSMANSHIP, EXCELLENCE",
+    "Need Roof Help Now?",
+    "Need Roof Help Now?",
+    "Residential Testimonial",
+    "Commercial Project Feature",
+    "NBC2 News Featuring CMR",
+    "CMR Highlights",
+    "Our Roofing Services",
+    "Certified Roofing Company & Award-Winning Team",
+    "Ready to Get Started?",
+    "Awards & Recognition"
+  ],
+  "#error": false,
+  "#debug": {
+    "requestId": "oVRpZlHRGFPNv8T",
+    "url": "https://cmrconstruction.com",
+    "loadedUrl": "https://cmrconstruction.com/",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  }
+}]
